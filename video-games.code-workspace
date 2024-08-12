@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "video-games",
+			"path": "video-games"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "video-games"
+	}
+}
